@@ -1,11 +1,5 @@
-# This project does not work but I wanted to submit anyways.
-# It was nice to participate though.
-# Thank you! 
-
-
-#
-#
-#
+This project does not work but I wanted to submit anyways.
+It was nice to participate though. Thank you! 
 
 # Bounce: Autonomous Commute Agent
 
